@@ -1,0 +1,15 @@
+/*Classes v id 
+    class definition is .xyz{} can be used to give style to a group of elements
+    id definition is #xyz{} used to give style to a single element */
+
+      .roundedBorder{
+        border: 1px solid #f80808;
+        border-radius: 12px;
+      }  
+      #divTwo{
+        margin: 30px;
+        color: rgb(9, 70, 50);
+        padding: 30px;
+      }
+/*Materialize framework(dictionary)/
+    
